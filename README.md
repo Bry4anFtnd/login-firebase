@@ -1,5 +1,4 @@
 # LoginApp
 
-usamos la aplicacion authpara el ingreso de usaurios
-
+usamos una app para el ingreso usando firebase
 ![](https://github.com/Klerith/angular-login-demoapp/blob/master/src/assets/images/demo.png?raw=true)
